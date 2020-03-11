@@ -1,0 +1,8 @@
+D:\Team\Modulo4\Biblioteca\bin\Debug\netcoreapp3.1\Ficha 10.deps.json
+D:\Team\Modulo4\Biblioteca\bin\Debug\netcoreapp3.1\Ficha 10.dll
+D:\Team\Modulo4\Biblioteca\bin\Debug\netcoreapp3.1\Ficha 10.pdb
+D:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.csprojAssemblyReference.cache
+D:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.AssemblyInfoInputs.cache
+D:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.AssemblyInfo.cs
+D:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.dll
+D:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.pdb

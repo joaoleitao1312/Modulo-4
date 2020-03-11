@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Consola/1.0.0": {
+        "dependencies": {
+          "Ficha11": "1.0.0",
+          "Ficha12": "1.0.0"
+        },
+        "runtime": {
+          "Consola.dll": {}
+        }
+      },
+      "Ficha 10/1.0.0": {
+        "runtime": {
+          "Ficha 10.dll": {}
+        }
+      },
+      "Ficha11/1.0.0": {
+        "runtime": {
+          "Ficha11.dll": {}
+        }
+      },
+      "Ficha12/1.0.0": {
+        "runtime": {
+          "Ficha12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ficha 10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ficha11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ficha12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

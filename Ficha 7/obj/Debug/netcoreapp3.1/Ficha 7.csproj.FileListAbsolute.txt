@@ -1,0 +1,3 @@
+C:\Team\Modulo4\Ficha 7\obj\Debug\netcoreapp3.1\Ficha 7.csprojAssemblyReference.cache
+C:\Team\Modulo4\Ficha 7\obj\Debug\netcoreapp3.1\Ficha 7.AssemblyInfoInputs.cache
+C:\Team\Modulo4\Ficha 7\obj\Debug\netcoreapp3.1\Ficha 7.AssemblyInfo.cs
