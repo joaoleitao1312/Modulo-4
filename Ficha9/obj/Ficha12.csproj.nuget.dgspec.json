@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj": {}
+    "C:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj": {}
   },
   "projects": {
-    "D:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj": {
+    "C:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj",
+        "projectUniqueName": "C:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj",
         "projectName": "Ficha12",
-        "projectPath": "D:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj",
+        "projectPath": "C:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj",
         "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
-        "outputPath": "D:\\Team\\Modulo4\\Ficha9\\obj\\",
+        "outputPath": "C:\\Team\\Modulo4\\Ficha9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",
