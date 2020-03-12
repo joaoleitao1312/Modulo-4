@@ -6,3 +6,11 @@ D:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.AssemblyInfoInputs.c
 D:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.AssemblyInfo.cs
 D:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.dll
 D:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.pdb
+E:\Team\Modulo4\Biblioteca\bin\Debug\netcoreapp3.1\Ficha 10.deps.json
+E:\Team\Modulo4\Biblioteca\bin\Debug\netcoreapp3.1\Ficha 10.dll
+E:\Team\Modulo4\Biblioteca\bin\Debug\netcoreapp3.1\Ficha 10.pdb
+E:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.csprojAssemblyReference.cache
+E:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.AssemblyInfoInputs.cache
+E:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.AssemblyInfo.cs
+E:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.dll
+E:\Team\Modulo4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj": {}
+    "D:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj": {}
   },
   "projects": {
-    "C:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj": {
+    "D:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj",
+        "projectUniqueName": "D:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj",
         "projectName": "Ficha 10",
-        "projectPath": "C:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj",
+        "projectPath": "D:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj",
         "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
-        "outputPath": "C:\\Team\\Modulo4\\Biblioteca\\obj\\",
+        "outputPath": "D:\\Team\\Modulo4\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",

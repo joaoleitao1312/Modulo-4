@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Team\\Modulo4\\Consola\\Consola.csproj": {}
+    "D:\\Team\\Modulo4\\Consola\\Consola.csproj": {}
   },
   "projects": {
-    "C:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj": {
+    "D:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj",
+        "projectUniqueName": "D:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj",
         "projectName": "Ficha 10",
-        "projectPath": "C:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj",
+        "projectPath": "D:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj",
         "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
-        "outputPath": "C:\\Team\\Modulo4\\Biblioteca\\obj\\",
+        "outputPath": "D:\\Team\\Modulo4\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Team\\Modulo4\\Consola\\Consola.csproj": {
+    "D:\\Team\\Modulo4\\Consola\\Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Team\\Modulo4\\Consola\\Consola.csproj",
+        "projectUniqueName": "D:\\Team\\Modulo4\\Consola\\Consola.csproj",
         "projectName": "Consola",
-        "projectPath": "C:\\Team\\Modulo4\\Consola\\Consola.csproj",
+        "projectPath": "D:\\Team\\Modulo4\\Consola\\Consola.csproj",
         "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
-        "outputPath": "C:\\Team\\Modulo4\\Consola\\obj\\",
+        "outputPath": "D:\\Team\\Modulo4\\Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,14 +79,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj": {
-                "projectPath": "C:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj"
+              "D:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj": {
+                "projectPath": "D:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj"
               },
-              "C:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj": {
-                "projectPath": "C:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj"
+              "D:\\Team\\Modulo4\\Ficha13\\Ficha13.csproj": {
+                "projectPath": "D:\\Team\\Modulo4\\Ficha13\\Ficha13.csproj"
               },
-              "C:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj": {
-                "projectPath": "C:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj"
+              "D:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj": {
+                "projectPath": "D:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj"
+              },
+              "D:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj": {
+                "projectPath": "D:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj"
               }
             }
           }
@@ -118,14 +121,14 @@
         }
       }
     },
-    "C:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj": {
+    "D:\\Team\\Modulo4\\Ficha13\\Ficha13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj",
-        "projectName": "Ficha11",
-        "projectPath": "C:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj",
+        "projectUniqueName": "D:\\Team\\Modulo4\\Ficha13\\Ficha13.csproj",
+        "projectName": "Ficha13",
+        "projectPath": "D:\\Team\\Modulo4\\Ficha13\\Ficha13.csproj",
         "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
-        "outputPath": "C:\\Team\\Modulo4\\Ficha7\\obj\\",
+        "outputPath": "D:\\Team\\Modulo4\\Ficha13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -170,14 +173,66 @@
         }
       }
     },
-    "C:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj": {
+    "D:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj",
-        "projectName": "Ficha12",
-        "projectPath": "C:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj",
+        "projectUniqueName": "D:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj",
+        "projectName": "Ficha11",
+        "projectPath": "D:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj",
         "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
-        "outputPath": "C:\\Team\\Modulo4\\Ficha9\\obj\\",
+        "outputPath": "D:\\Team\\Modulo4\\Ficha7\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj",
+        "projectName": "Ficha12",
+        "projectPath": "D:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj",
+        "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
+        "outputPath": "D:\\Team\\Modulo4\\Ficha9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",

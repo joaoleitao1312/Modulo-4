@@ -6,3 +6,11 @@ D:\Team\Modulo4\Ficha7\obj\Debug\netcoreapp3.1\Ficha11.AssemblyInfoInputs.cache
 D:\Team\Modulo4\Ficha7\obj\Debug\netcoreapp3.1\Ficha11.AssemblyInfo.cs
 D:\Team\Modulo4\Ficha7\obj\Debug\netcoreapp3.1\Ficha11.dll
 D:\Team\Modulo4\Ficha7\obj\Debug\netcoreapp3.1\Ficha11.pdb
+E:\Team\Modulo4\Ficha7\bin\Debug\netcoreapp3.1\Ficha11.deps.json
+E:\Team\Modulo4\Ficha7\bin\Debug\netcoreapp3.1\Ficha11.dll
+E:\Team\Modulo4\Ficha7\bin\Debug\netcoreapp3.1\Ficha11.pdb
+E:\Team\Modulo4\Ficha7\obj\Debug\netcoreapp3.1\Ficha11.csprojAssemblyReference.cache
+E:\Team\Modulo4\Ficha7\obj\Debug\netcoreapp3.1\Ficha11.AssemblyInfoInputs.cache
+E:\Team\Modulo4\Ficha7\obj\Debug\netcoreapp3.1\Ficha11.AssemblyInfo.cs
+E:\Team\Modulo4\Ficha7\obj\Debug\netcoreapp3.1\Ficha11.dll
+E:\Team\Modulo4\Ficha7\obj\Debug\netcoreapp3.1\Ficha11.pdb

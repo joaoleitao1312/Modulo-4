@@ -20,10 +20,6 @@ E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
 E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
 E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Consola.dll
 E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
-E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha 6.dll
-E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha7.dll
-E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha 6.pdb
-E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha7.pdb
 E:\Team\Modulo4\Consola\obj\Debug\netcoreapp3.1\Consola.csprojAssemblyReference.cache
 E:\Team\Modulo4\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
 E:\Team\Modulo4\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
@@ -48,3 +44,11 @@ D:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha12.dll
 D:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha 10.pdb
 D:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha11.pdb
 D:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha12.pdb
+E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha 10.dll
+E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha11.dll
+E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha12.dll
+E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha 10.pdb
+E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha11.pdb
+E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha12.pdb
+D:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha13.dll
+D:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha13.pdb

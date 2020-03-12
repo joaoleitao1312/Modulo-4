@@ -9,7 +9,8 @@
       "Consola/1.0.0": {
         "dependencies": {
           "Ficha11": "1.0.0",
-          "Ficha12": "1.0.0"
+          "Ficha12": "1.0.0",
+          "Ficha13": "1.0.0"
         },
         "runtime": {
           "Consola.dll": {}
@@ -28,6 +29,11 @@
       "Ficha12/1.0.0": {
         "runtime": {
           "Ficha12.dll": {}
+        }
+      },
+      "Ficha13/1.0.0": {
+        "runtime": {
+          "Ficha13.dll": {}
         }
       }
     }
@@ -49,6 +55,11 @@
       "sha512": ""
     },
     "Ficha12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ficha13/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
