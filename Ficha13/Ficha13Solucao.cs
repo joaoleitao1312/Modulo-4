@@ -3,7 +3,9 @@
 namespace Ficha13
 {
     public class Ficha13Solucao
-    { 
+    {
+        #region Exercicio 2
+        #endregion
         #region Exercicio1
 
         public static void Exercicio1()
