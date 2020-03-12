@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Team\\Modulo4\\Consola\\Consola.csproj",
+      "projectUniqueName": "C:\\Team\\Modulo4\\Consola\\Consola.csproj",
       "projectName": "Consola",
-      "projectPath": "D:\\Team\\Modulo4\\Consola\\Consola.csproj",
+      "projectPath": "C:\\Team\\Modulo4\\Consola\\Consola.csproj",
       "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
-      "outputPath": "D:\\Team\\Modulo4\\Consola\\obj\\",
+      "outputPath": "C:\\Team\\Modulo4\\Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -100,17 +100,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj": {
-              "projectPath": "D:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj"
+            "C:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj": {
+              "projectPath": "C:\\Team\\Modulo4\\Biblioteca\\Ficha 10.csproj"
             },
-            "D:\\Team\\Modulo4\\Ficha13\\Ficha13.csproj": {
-              "projectPath": "D:\\Team\\Modulo4\\Ficha13\\Ficha13.csproj"
+            "C:\\Team\\Modulo4\\Ficha13\\Ficha13.csproj": {
+              "projectPath": "C:\\Team\\Modulo4\\Ficha13\\Ficha13.csproj"
             },
-            "D:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj": {
-              "projectPath": "D:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj"
+            "C:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj": {
+              "projectPath": "C:\\Team\\Modulo4\\Ficha7\\Ficha11.csproj"
             },
-            "D:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj": {
-              "projectPath": "D:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj"
+            "C:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj": {
+              "projectPath": "C:\\Team\\Modulo4\\Ficha9\\Ficha12.csproj"
             }
           }
         }
