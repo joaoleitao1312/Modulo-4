@@ -177,6 +177,76 @@ namespace Ficha12
 
         #endregion
 
+        #region Exercicio9
+
+        public static void Exercicio9 ()
+        {
+            int lado1 = 0;
+            int lado2 = 0;
+            int lado3 = 0;
+
+            Console.Write("Escreva o 1º lado do triangulo: ");
+            lado1 = int.Parse(Console.ReadLine());
+            Console.Write("Escreva o 2º lado do triangulo: ");
+            lado2 = int.Parse(Console.ReadLine());
+            Console.Write("Escreva o 3º lado do triangulo: ");
+            lado3 = int.Parse(Console.ReadLine());
+
+            if (lado1 == lado2 && lado2 == lado3)
+                Console.WriteLine("Este triangulo é equilatero");
+            else if (lado1 == lado2 && lado2 != lado3 || lado1 == lado3 && lado2 != lado3 || lado3 == lado2 && lado1 != lado3)
+                Console.WriteLine("Este triangulo é isosceles");
+            else
+                Console.WriteLine("Este triagulo é escaleno");            
+        }
+
+        #endregion
+
+        #region Exercicio10
+
+        public static void Exercicio10()
+        {
+            int valor1 = 0;
+            int valor2 = 0;
+            Console.Write("Insira um valor: ");
+            valor1 = int.Parse(Console.ReadLine());
+            Console.Write("Insira um valor: ");
+            valor2 = int.Parse(Console.ReadLine());
+            if (valor1 - valor2 < 0)
+            {
+                Console.ForegroundColor
+                        = ConsoleColor.DarkRed;
+                Console.WriteLine("Prejuizo!!!");
+                Console.ForegroundColor
+                    = ConsoleColor.White;
+            }
+            if (valor1 - valor2 > 0)
+            {
+                Console.ForegroundColor
+                        = ConsoleColor.Green;
+                Console.WriteLine("Lucro!!! Festa hoje em tua casa");
+                Console.ForegroundColor
+                    = ConsoleColor.White;
+            }
+            if (valor1 - valor2 == 0)
+            {
+                Console.ForegroundColor
+                        = ConsoleColor.Blue;
+                Console.WriteLine("Não perdeste nem ganhaste dinheiro");
+                Console.ForegroundColor
+                    = ConsoleColor.White;
+            }
+        }
+        #endregion
+
+        #region Exercicio11
+
+        public static void Exercicio11()
+        {
+
+        }
+
+        #endregion
 
         #region Exercicio16
 
