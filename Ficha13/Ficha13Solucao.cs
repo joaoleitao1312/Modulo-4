@@ -4,32 +4,36 @@ namespace Ficha13
 {
     public class Ficha13Solucao
     {
-        #region Exercicio 2
-        #endregion
+
+
         #region Exercicio1
 
         public static void Exercicio1()
         {
 
-            char operacao = ' ';
+
+            var operacao = "";
             double number1 = 0;
             double number2 = 0;
             double resultado = 0;
             bool continuar = true;
             bool continuar2 = true;
-            var continuar3 = " ";
-            bool continuar4 = true;
+            char continuar3 = ' ';
+            //bool continuar4 = true;
+            bool continuar5 = true;
+            //char enter = ' ';
+            //char continuarConta = ' ';
 
+            //Menu(number1);
             Console.WriteLine("----------Calculadora----------");
             Console.WriteLine(" ");
             Console.Write("Insira um número: ");
             double.TryParse(Console.ReadLine(), out number1);
-
             do
             {
-                Console.Write("Insira uma operação (+ , -, *, /): ");
-                char.TryParse(Console.ReadLine(), out operacao);
-                if (operacao != '+' && operacao != '-' && operacao != '*' && operacao != '/')
+                Console.Write("Insira uma operação(+ , -, *, /):");
+                operacao = (Console.ReadLine());
+                if (operacao != "+" && operacao != "-" && operacao != "*" && operacao != "/")
                 {
                     Console.ForegroundColor
                         = ConsoleColor.DarkRed;
@@ -41,25 +45,27 @@ namespace Ficha13
                 {
                     Console.Write("Insira um número: ");
                     double.TryParse(Console.ReadLine(), out number2);
-                    
+
                     do
                     {
+                        continuar5 = true;
+                        continuar2 = true;
                         switch (operacao)
                         {
-                            case '+':
+                            case "+":
                                 resultado = number1 + number2;
                                 Console.WriteLine(number1 + " + " + number2 + " = " + resultado);
-                                Console.Write("Queres cancelar a conta (s/n): ");
-                                continuar3 = Console.ReadLine();
-                                if (continuar3 == "s")
+                                Console.Write("Queres continuar a conta (s/n): ");
+                                continuar3 = char.Parse(Console.ReadLine());
+                                if (continuar3 == 'n')
                                 {
-                                    Console.Clear();
+                                    continuar = false;
+                                    continuar2 = false;
                                 }
                                 else
                                 {
-                                    Console.Write("Insira uma operação (+ , -, *, /): ");
-                                    char.TryParse(Console.ReadLine(), out operacao);
-                                    if (operacao != '+' && operacao != '-' && operacao != '*' && operacao != '/')
+                                    Console.Write("Insira uma operação(+ , -, *, /):");
+                                    if (operacao != "+" && operacao != "-" && operacao != "*" && operacao != "/")
                                     {
                                         Console.ForegroundColor
                                             = ConsoleColor.DarkRed;
@@ -67,72 +73,80 @@ namespace Ficha13
                                         Console.ForegroundColor
                                             = ConsoleColor.White;
                                     }
-                                    else
+                                    else if (operacao == "+" && operacao == "-" && operacao == "*" && operacao == "/")
                                     {
-                                        do
-                                        {
-                                            Console.Write("Insira um número: ");
-                                            double.TryParse(Console.ReadLine(), out number2);
-                                            resultado += resultado;
-                                            Console.WriteLine(resultado);
-                                            continuar4 = false;
-                                        }
-                                        while (continuar4);
-
+                                        Console.Write("Insira um número: ");
+                                        double.TryParse(Console.ReadLine(), out number2);
+                                        continuar2 = false;
+                                    }
                                 }
-                                    continuar2 = false;
-                                    break;
-                                }
-                                
-                                continuar2 = false;
                                 break;
-                            case '-':
+                            case "-":
                                 resultado = number1 - number2;
                                 Console.WriteLine(number1 + " - " + number2 + " = " + resultado);
                                 Console.Write("Queres cancelar a conta (s/n): ");
-                                continuar3 = Console.ReadLine();
-                                if (continuar3 == "s")
+                                continuar3 = char.Parse(Console.ReadLine());
+                                if (continuar3 == 's')
                                 {
-                                    Console.Clear();
+                                    continuar = false;
+                                    continuar2 = false;
                                 }
-                                continuar2 = false;
+                                else
+                                {
+                                    continuar2 = false;
+                                }
                                 break;
-                            case '*':
+                            case "*":
                                 resultado = number1 * number2;
                                 Console.WriteLine(number1 + " * " + number2 + " = " + resultado);
                                 Console.Write("Queres cancelar a conta (s/n): ");
-                                continuar3 = Console.ReadLine();
-                                if (continuar3 == "s")
+                                continuar3 = char.Parse(Console.ReadLine());
+                                if (continuar3 == 's')
                                 {
-                                    Console.Clear();
+                                    continuar = false;
+                                    continuar2 = false;
                                 }
-                                else 
-                                continuar2 = false;
+                                else
+                                {
+                                    continuar2 = false;
+                                }
                                 break;
-                            case '/':
+                            case "/":
                                 resultado = number1 / number2;
                                 if (number2 == 0)
                                 {
                                     Console.ForegroundColor
                                         = ConsoleColor.DarkRed;
-                                    Console.WriteLine("Impossível dividir por 0. Tenta outra bez");
+                                    Console.WriteLine("Impossível dibidir por 0. Tenta outra bez");
                                     Console.ForegroundColor
-                                        = ConsoleColor.White;                                    
+                                        = ConsoleColor.White;
                                     break;
                                 }
-                                else 
-                                { 
+                                else
+                                {
                                     Console.WriteLine(number1 + " / " + number2 + " = " + resultado);
-                                    continuar2 = false;
+                                    Console.Write("Queres cancelar a conta (s/n): ");
+                                    continuar3 = char.Parse(Console.ReadLine());
+                                    if (continuar3 == 's')
+                                    {
+                                        continuar = false;
+                                        continuar2 = false;
+                                    }
+                                    else
+                                    {
+                                        continuar2 = false;
+                                    }
                                     break;
-                                }                                                               
+                                }
+                            case "C":
+                                return;
                             default:
                                 break;
                         }
                     }
                     while (continuar2);
 
-                    
+
                 }
 
             }

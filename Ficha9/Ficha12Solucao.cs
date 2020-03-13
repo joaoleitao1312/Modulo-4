@@ -116,6 +116,15 @@ namespace Ficha12
 
         public static void Exercicio6()
         {
+
+        }
+
+        #endregion
+
+        #region Exercicio16
+
+        public static void Exercicio16()
+        {
             int limiteTeto = 100;
             int limiteChao = 1;
             var acertei = false;            
