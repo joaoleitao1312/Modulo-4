@@ -22,3 +22,11 @@ C:\Users\João Leitão\Source\Repos\Modulo-4\Ficha9\obj\Debug\netcoreapp3.1\Fich
 C:\Users\João Leitão\Source\Repos\Modulo-4\Ficha9\bin\Debug\netcoreapp3.1\Ficha12.deps.json
 C:\Users\João Leitão\Source\Repos\Modulo-4\Ficha9\bin\Debug\netcoreapp3.1\Ficha12.dll
 C:\Users\João Leitão\Source\Repos\Modulo-4\Ficha9\bin\Debug\netcoreapp3.1\Ficha12.pdb
+C:\Users\PC\Source\Repos\Modulo-4\Ficha9\bin\Debug\netcoreapp3.1\Ficha12.deps.json
+C:\Users\PC\Source\Repos\Modulo-4\Ficha9\bin\Debug\netcoreapp3.1\Ficha12.dll
+C:\Users\PC\Source\Repos\Modulo-4\Ficha9\bin\Debug\netcoreapp3.1\Ficha12.pdb
+C:\Users\PC\Source\Repos\Modulo-4\Ficha9\obj\Debug\netcoreapp3.1\Ficha12.csprojAssemblyReference.cache
+C:\Users\PC\Source\Repos\Modulo-4\Ficha9\obj\Debug\netcoreapp3.1\Ficha12.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\Modulo-4\Ficha9\obj\Debug\netcoreapp3.1\Ficha12.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\Modulo-4\Ficha9\obj\Debug\netcoreapp3.1\Ficha12.dll
+C:\Users\PC\Source\Repos\Modulo-4\Ficha9\obj\Debug\netcoreapp3.1\Ficha12.pdb

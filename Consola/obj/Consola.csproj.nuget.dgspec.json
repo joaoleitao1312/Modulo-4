@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Consola\\Consola.csproj": {}
+    "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Consola\\Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj": {
+    "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj",
         "projectName": "Ficha 10",
-        "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj",
-        "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Biblioteca\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -56,18 +60,22 @@
         }
       }
     },
-    "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Consola\\Consola.csproj": {
+    "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Consola\\Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Consola\\Consola.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Consola\\Consola.csproj",
         "projectName": "Consola",
-        "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Consola\\Consola.csproj",
-        "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Consola\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Consola\\Consola.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Consola\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -79,17 +87,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj": {
-                "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj"
+              "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj": {
+                "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj"
               },
-              "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj": {
-                "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj"
+              "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj": {
+                "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj"
               },
-              "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj": {
-                "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj"
+              "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj": {
+                "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj"
               },
-              "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj": {
-                "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj"
+              "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj": {
+                "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj"
               }
             }
           }
@@ -121,18 +129,22 @@
         }
       }
     },
-    "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj": {
+    "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj",
         "projectName": "Ficha13",
-        "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj",
-        "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha13\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha13\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -173,18 +185,22 @@
         }
       }
     },
-    "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj": {
+    "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj",
         "projectName": "Ficha11",
-        "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj",
-        "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha7\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha7\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -225,18 +241,22 @@
         }
       }
     },
-    "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj": {
+    "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj",
         "projectName": "Ficha12",
-        "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj",
-        "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha9\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha9\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
