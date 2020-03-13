@@ -194,8 +194,10 @@ namespace Ficha12
 
             if (lado1 == lado2 && lado2 == lado3)
                 Console.WriteLine("Este triangulo é equilatero");
+
             else if (lado1 == lado2 && lado2 != lado3 || lado1 == lado3 && lado2 != lado3 || lado3 == lado2 && lado1 != lado3)
                 Console.WriteLine("Este triangulo é isosceles");
+
             else
                 Console.WriteLine("Este triagulo é escaleno");            
         }
@@ -212,6 +214,7 @@ namespace Ficha12
             valor1 = int.Parse(Console.ReadLine());
             Console.Write("Insira um valor: ");
             valor2 = int.Parse(Console.ReadLine());
+
             if (valor1 - valor2 < 0)
             {
                 Console.ForegroundColor
@@ -220,6 +223,7 @@ namespace Ficha12
                 Console.ForegroundColor
                     = ConsoleColor.White;
             }
+
             if (valor1 - valor2 > 0)
             {
                 Console.ForegroundColor
@@ -228,6 +232,7 @@ namespace Ficha12
                 Console.ForegroundColor
                     = ConsoleColor.White;
             }
+
             if (valor1 - valor2 == 0)
             {
                 Console.ForegroundColor
