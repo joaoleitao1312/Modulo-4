@@ -22,3 +22,11 @@ C:\Users\João Leitão\Source\Repos\Modulo-4\Biblioteca\obj\Debug\netcoreapp3.1\
 C:\Users\João Leitão\Source\Repos\Modulo-4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.AssemblyInfo.cs
 C:\Users\João Leitão\Source\Repos\Modulo-4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.dll
 C:\Users\João Leitão\Source\Repos\Modulo-4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.pdb
+C:\Users\PC\Source\Repos\Modulo-4\Biblioteca\bin\Debug\netcoreapp3.1\Ficha 10.deps.json
+C:\Users\PC\Source\Repos\Modulo-4\Biblioteca\bin\Debug\netcoreapp3.1\Ficha 10.dll
+C:\Users\PC\Source\Repos\Modulo-4\Biblioteca\bin\Debug\netcoreapp3.1\Ficha 10.pdb
+C:\Users\PC\Source\Repos\Modulo-4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.csprojAssemblyReference.cache
+C:\Users\PC\Source\Repos\Modulo-4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\Modulo-4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\Modulo-4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.dll
+C:\Users\PC\Source\Repos\Modulo-4\Biblioteca\obj\Debug\netcoreapp3.1\Ficha 10.pdb

@@ -75,20 +75,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\João Leitão\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Consola\\Consola.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Consola\\Consola.csproj",
       "projectName": "Consola",
-      "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Consola\\Consola.csproj",
-      "packagesPath": "C:\\Users\\João Leitão\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Consola\\obj\\",
+      "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Consola\\Consola.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Consola\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\João Leitão\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -100,17 +105,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj": {
-              "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj"
+            "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj": {
+              "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj"
             },
-            "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj": {
-              "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj"
+            "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj": {
+              "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj"
             },
-            "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj": {
-              "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj"
+            "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj": {
+              "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj"
             },
-            "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj": {
-              "projectPath": "C:\\Users\\João Leitão\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj"
+            "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj": {
+              "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj"
             }
           }
         }
