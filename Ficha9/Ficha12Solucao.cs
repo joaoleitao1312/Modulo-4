@@ -116,10 +116,67 @@ namespace Ficha12
 
         public static void Exercicio6()
         {
+            var item = " ";
+            int quantidade = 0;
 
+            Console.WriteLine("Qual o item para dividir");
+            item = Console.ReadLine();
+            Console.WriteLine("Quantos items para dividir");
+            quantidade = int.Parse(Console.ReadLine());
+
+            do
+            {
+                if (quantidade % 2 == 0)
+                {
+                    Console.WriteLine("Um " + item + " para mim");
+                    quantidade--;
+                }
+                else
+                {
+                    Console.WriteLine("Um " + item + " para ti");
+                    quantidade--;
+                }
+            }
+            while (quantidade != 0);
         }
 
         #endregion
+
+        #region Exercicio7
+
+        public static void Exercicio7()
+        {
+            int ano = 0;
+            Console.WriteLine("Insira um ano");
+            ano = int.Parse(Console.ReadLine());
+
+            if (ano % 4 == 0)            
+                Console.WriteLine("O ano " + ano + " é bissexto");
+            
+            else 
+                Console.WriteLine("O ano " + ano + " não é bissexto");
+        }
+
+        #endregion
+
+        #region Exercicio8
+
+        public static void Exercicio8 ()
+        {
+            int beer = 99;
+
+            while (beer != 0)
+            {
+                Console.WriteLine(beer + " bottles of beer on the wall, " + beer + " bottles of beer.\n" +
+                                  "Take one down and pass it around, " + (beer = beer - 1) + " bottles of beer on the wall.");
+            }
+
+            Console.WriteLine("No more bottles of beer on the wall, no more bottles of beer.\n " +
+                              "Go to the store and buy some more, 99 bottles of beer on the wall.");
+        }
+
+        #endregion
+
 
         #region Exercicio16
 

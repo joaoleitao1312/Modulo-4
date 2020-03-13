@@ -52,3 +52,23 @@ E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha11.pdb
 E:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha12.pdb
 D:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha13.dll
 D:\Team\Modulo4\Consola\bin\Debug\netcoreapp3.1\Ficha13.pdb
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha 10.dll
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha11.dll
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha12.dll
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha13.dll
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha 10.pdb
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha13.pdb
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha11.pdb
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha12.pdb
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\obj\Debug\netcoreapp3.1\Consola.csprojAssemblyReference.cache
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\João Leitão\Source\Repos\Modulo-4\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
