@@ -323,7 +323,7 @@ namespace Ficha12
 
         #region Exercicio12
 
-        public static void Exercicio12()
+        public static void Exercicio12() //Não completo
         {
             int n = 0;
             int i = 1;
@@ -351,6 +351,56 @@ namespace Ficha12
         }
 
         #endregion
+
+        #region Exercicio 13
+
+        public static void Exercicio13()
+        {
+            double regA = 2.00;
+            double regB = 1.20;
+            double regC = 1.00;
+            double regD = 0.75;
+            double aguaConsumida = 0.00;
+            char regiaoEscolhida = ' ';
+            bool continuar = true;
+
+            Console.Write("Insira a quantidade de água consumida: ");
+            aguaConsumida = double.Parse(Console.ReadLine());
+            Console.Write("Insira a sua região(A, B, C ou D): ");
+            regiaoEscolhida = char.Parse(Console.ReadLine());
+
+            switch (regiaoEscolhida)
+                {
+                    case 'A':
+                        Console.WriteLine("Total: " + (regA * aguaConsumida));
+                        continuar = false;
+                        break;
+
+                    case 'B':
+                        Console.WriteLine("Total: " + (regB * aguaConsumida));
+                        continuar = false;
+                        break;
+
+                    case 'C':
+                        Console.WriteLine("Total: " + (regC * aguaConsumida));
+                        continuar = false;
+                        break;
+
+                    case 'D':
+                        Console.WriteLine("Total: " + (regD * aguaConsumida));
+                        continuar = false;
+                        break;
+
+                    default:
+                        Console.WriteLine("Insira uma região válida");
+                        continuar = true;
+                        break;
+                }
+        }
+
+        #endregion
+
+
 
         #region Exercicio16
 
