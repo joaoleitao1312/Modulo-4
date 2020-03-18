@@ -400,7 +400,74 @@ namespace Ficha12
 
         #endregion
 
+        #region Exercicio 14
 
+        public static void Exercicio14()
+        {
+            int lastNumber = 0;
+            int realNumber = 1;
+            int fibonacci;
+            int n = 0;
+
+            Console.Write("Insira o limite de números para a sequencia de fibonacci: ");
+            n = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < n; i++)
+            {
+                fibonacci = lastNumber + realNumber;
+                Console.WriteLine(fibonacci);
+                lastNumber = realNumber;
+                realNumber = fibonacci;
+            }
+        }
+
+        #endregion
+
+        #region CalcularFibonacci
+
+        private static void CalcularFibonacci()
+        {
+            int lastNumber = 0;
+            int realNumber = 1;
+            int fibonacci;
+            int n = 0;
+
+            Console.Write("Insira o limite de números para a sequencia de fibonacci: ");
+            n = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < n; i++)
+            {
+                fibonacci = lastNumber + realNumber;
+                Console.WriteLine(fibonacci);
+                lastNumber = realNumber;
+                realNumber = fibonacci;
+            }
+        }
+
+        #endregion
+
+        #region Exercicio15
+
+        public static void Exercicio15()
+        {
+            int lastNumber = 0;
+            int realNumber = 1;
+            int fibonacci;
+            int n = 0;
+
+            Console.Write("Insira o limite de números para a sequencia de fibonacci: ");
+            n = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < n; i++)
+            {
+                fibonacci = lastNumber + realNumber;
+                Console.WriteLine(fibonacci);
+                lastNumber = realNumber;
+                realNumber = fibonacci;
+            }
+        }
+
+        #endregion
 
         #region Exercicio16
 
