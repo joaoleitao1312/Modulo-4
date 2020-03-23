@@ -2,6 +2,7 @@
 using Ficha11;
 using Ficha12;
 using Ficha13;
+using Ficha14;
 using System;
 
 namespace Consola
@@ -59,11 +60,11 @@ namespace Consola
             //Ficha12Solucao.Exercicio11();
             //Ficha12Solucao.Exercicio12();
             //Ficha12Solucao.Exercicio13();
-            Ficha12Solucao.Exercicio14();
+            //Ficha12Solucao.Exercicio14();
 
+            Ficha13Solucao.Exercicio1();
 
-
-            //Ficha13Solucao.Exercicio1();
+            //Ficha14Solucao.Exercicio1();
         }
     }
 }

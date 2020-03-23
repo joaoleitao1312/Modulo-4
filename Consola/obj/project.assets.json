@@ -41,6 +41,16 @@
         "runtime": {
           "bin/placeholder/Ficha13.dll": {}
         }
+      },
+      "Ficha14/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Ficha14.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ficha14.dll": {}
+        }
       }
     }
   },
@@ -64,6 +74,11 @@
       "type": "project",
       "path": "../Ficha13/Ficha13.csproj",
       "msbuildProject": "../Ficha13/Ficha13.csproj"
+    },
+    "Ficha14/1.0.0": {
+      "type": "project",
+      "path": "../Ficha 14/Ficha14.csproj",
+      "msbuildProject": "../Ficha 14/Ficha14.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -71,7 +86,8 @@
       "Ficha 10 >= 1.0.0",
       "Ficha11 >= 1.0.0",
       "Ficha12 >= 1.0.0",
-      "Ficha13 >= 1.0.0"
+      "Ficha13 >= 1.0.0",
+      "Ficha14 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -107,6 +123,9 @@
           "projectReferences": {
             "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj": {
               "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Biblioteca\\Ficha 10.csproj"
+            },
+            "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha 14\\Ficha14.csproj": {
+              "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha 14\\Ficha14.csproj"
             },
             "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj": {
               "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha13\\Ficha13.csproj"
