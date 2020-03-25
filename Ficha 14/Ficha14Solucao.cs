@@ -13,7 +13,7 @@ namespace Ficha14
             Console.WriteLine("Insira um número limite");
             n = int.Parse(Console.ReadLine());
 
-            for(int i = 1; i < n; i++)
+            for(int i = 1; i <= n; i++)
             {
                 Console.WriteLine(i);
             }
@@ -26,14 +26,23 @@ namespace Ficha14
         public static void Exercicio2()
         {
             int n = 0;
+            int i = 0;
 
             Console.WriteLine("Insira um número limite");
             n = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i < n; i++)
-            {
-                Console.WriteLine(i);
+            for (i = 1; i < n; i++)
+            {               
             }
+
+            do
+            {
+                int a = i--;
+                Console.WriteLine(a);
+            }
+            while (i != 0);
+
+
         }
 
         #endregion

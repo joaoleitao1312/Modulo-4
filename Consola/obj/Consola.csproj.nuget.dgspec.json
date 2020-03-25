@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\PC\\source\\repos\\Modulo-4\\Ficha 14\\Ficha14.csproj": {
+    "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha 14\\Ficha14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Modulo-4\\Ficha 14\\Ficha14.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha 14\\Ficha14.csproj",
         "projectName": "Ficha14",
-        "projectPath": "C:\\Users\\PC\\source\\repos\\Modulo-4\\Ficha 14\\Ficha14.csproj",
+        "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha 14\\Ficha14.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\Modulo-4\\Ficha 14\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha 14\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
