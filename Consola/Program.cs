@@ -61,12 +61,19 @@ namespace Consola
             //Ficha12Solucao.Exercicio12();
             //Ficha12Solucao.Exercicio13();
             //Ficha12Solucao.Exercicio14();
+            //Ficha12Solucao.Exercicio15();
 
             //Ficha13Solucao.Exercicio1();
 
             //Ficha14Solucao.Exercicio1();
             //Ficha14Solucao.Exercicio2();
             //Ficha14Solucao.Exercicio3();
+            //Ficha14Solucao.Exercicio4();
+            //Ficha14Solucao.Exercicio5();
+            //Ficha14Solucao.Exercicio6();
+
+
+
         }
     }
 }

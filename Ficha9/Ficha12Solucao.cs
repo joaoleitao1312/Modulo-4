@@ -452,7 +452,7 @@ namespace Ficha12
         {
             int lastNumber = 0;
             int realNumber = 1;
-            int fibonacci;
+            int fibonacci = 0;
             int n = 0;
 
             Console.Write("Insira o limite de números para a sequencia de fibonacci: ");
@@ -460,8 +460,8 @@ namespace Ficha12
 
             for (int i = 0; i < n; i++)
             {
-                fibonacci = lastNumber + realNumber;
                 Console.WriteLine(fibonacci);
+                fibonacci = lastNumber + realNumber;
                 lastNumber = realNumber;
                 realNumber = fibonacci;
             }
