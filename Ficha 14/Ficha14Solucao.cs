@@ -47,5 +47,29 @@ namespace Ficha14
 
         #endregion
 
+        #region Exercicio3
+
+        public static void Exercicio3()
+        {
+            int n = 0;
+            int i = 0;
+            int acc = 0;
+
+            Console.WriteLine("Insira um número limite");
+            n = int.Parse(Console.ReadLine());
+
+            for (i = 1; i <= n; i++)
+            {
+                acc += i;
+            }
+
+            Console.WriteLine(acc);
+
+            
+
+        }
+
+        #endregion
+
     }
 }
