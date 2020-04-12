@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ficha12", "Ficha9\Ficha12.c
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ficha13", "Ficha13\Ficha13.csproj", "{25B3FFBE-3A48-424A-88C5-B8F220DA6BA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ficha14", "Ficha 14\Ficha14.csproj", "{89B1CB8F-8E3B-4723-9DCD-5114B6240674}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ficha14", "Ficha 14\Ficha14.csproj", "{89B1CB8F-8E3B-4723-9DCD-5114B6240674}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
