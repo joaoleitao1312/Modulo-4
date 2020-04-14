@@ -94,3 +94,5 @@ C:\Users\PC\Source\Repos\Modulo-4\Consola\obj\Debug\netcoreapp3.1\Consola.dll
 C:\Users\PC\Source\Repos\Modulo-4\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
 C:\Users\PC\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha14.dll
 C:\Users\PC\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha14.pdb
+C:\Users\PC\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha15.dll
+C:\Users\PC\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha15.pdb

@@ -3,6 +3,7 @@ using Ficha11;
 using Ficha12;
 using Ficha13;
 using Ficha14;
+using Ficha15;
 using System;
 
 namespace Consola
@@ -63,7 +64,7 @@ namespace Consola
             //Ficha12Solucao.Exercicio14();
             //Ficha12Solucao.Exercicio15();
 
-            Ficha13Solucao.Exercicio1();
+            //Ficha13Solucao.Calculadora();
             //Ficha13Solucao.Forca();
             //Ficha13Solucao.PalavraRandom();
 
@@ -74,7 +75,10 @@ namespace Consola
             //Ficha14Solucao.Exercicio5();
             //Ficha14Solucao.Exercicio6();
 
-
+            //Ficha15Solucao.Exercicio1();
+            //Ficha15Solucao.Exercicio2();
+            //Ficha15Solucao.Exercicio3();
+            Ficha15Solucao.Exercicio4();
 
         }
     }

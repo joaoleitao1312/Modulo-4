@@ -5,77 +5,97 @@ namespace Ficha13
     public class Ficha13Solucao
     {
 
+        #region Soma
+
+        private static void Sum(int num2, double resultado)
+        {
+            Console.Write(" ");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            resultado += num2;
+            Console.WriteLine(" " + resultado);
+        }
+
+        #endregion
+
+        #region Sub
+
+        private static void Sub(int num2, double resultado)
+        {
+            Console.Write(" ");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            resultado -= num2;
+            Console.WriteLine(" " + resultado);
+        }
+
+        #endregion
 
         #region Calculadora
 
-        public static void Exercicio1()
+        public static void Calculadora ()
         {
             bool continuar1 = true;
             bool continuar2 = true;
             Console.BackgroundColor = ConsoleColor.Yellow;
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine("    Calculadora   " + "\n" +
-                "  Num Lock / * -  " + "\n" +
+                " Num Lock  / * -  " + "\n" +
                 "   7   8   9      " + "\n" +
                 "   4   5   6   +  " + "\n" +
                 "   1   2   3      " + "\n" +
-                "   0       .      " + "\n" +
+                "   0   .  esc     " + "\n" +
                 "                  ");
             Console.ResetColor();
             Console.Write(" ");
             int num1 = Convert.ToInt32(Console.ReadLine());
             Console.Write(" ");
-            char op = Convert.ToChar(Console.ReadLine());
+            string op = Convert.ToString(Console.ReadLine());
             do
             {
                 
-                if (op == '+')
+                if (op == "+")
                 {
-                    Console.Write("");
+                    Console.Write(" ");
                     int num2 = Convert.ToInt32(Console.ReadLine());
-                    double resultado = 0;
+                    double resultado;
                     resultado = num1 + num2;
                     Console.WriteLine(" " + resultado);
 
                     do
                     {
 
-                        Console.Write("");
-                        op = Convert.ToChar(Console.ReadLine());
+                        Console.Write(" ");
+                        op = Convert.ToString(Console.ReadLine());
 
-                        if (op == '+')
+                        if (op == "+")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado += num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == '-')
+                        if (op == "-")
                         {
-                            Console.Write("");
-                            num2 = Convert.ToInt32(Console.ReadLine());
-                            resultado -= num2;
-                            Console.WriteLine(" " + resultado);
+                            Sub(num2, resultado);
                         }
 
-                        if (op == '*')
+                        if (op == "*")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado *= num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == '/')
+                        if (op == "/")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado /= num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == 5)
+                        if (op == "esc")
                         {
                             continuar2 = false;
                             continuar1 = false;
@@ -87,53 +107,53 @@ namespace Ficha13
     
                 }
 
-                if (op == '-')
+                if (op == "-")
                 {
-                    Console.Write("");
+                    Console.Write(" ");
                     int num2 = Convert.ToInt32(Console.ReadLine());
                     double resultado = 0;
-                    resultado = num1 + num2;
+                    resultado = num1 - num2;
                     Console.WriteLine(" " + resultado);
 
                     do
                     {
 
-                        Console.Write("");
-                        op = Convert.ToChar(Console.ReadLine());
+                        Console.Write(" ");
+                        op = Convert.ToString(Console.ReadLine());
 
-                        if (op == '+')
+                        if (op == "+")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado += num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == '-')
+                        if (op == "-")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado -= num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == '*')
+                        if (op == "*")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado *= num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == '/')
+                        if (op == "/")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado /= num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == 5)
+                        if (op == "esc")
                         {
                             continuar2 = false;
                             continuar1 = false;
@@ -145,53 +165,53 @@ namespace Ficha13
 
                 }
 
-                if (op == '*')
+                if (op == "*")
                 {
-                    Console.Write("");
+                    Console.Write(" ");
                     int num2 = Convert.ToInt32(Console.ReadLine());
                     double resultado = 0;
-                    resultado = num1 + num2;
+                    resultado = num1 * num2;
                     Console.WriteLine(" " + resultado);
 
                     do
                     {
 
-                        Console.Write("");
-                        op = Convert.ToChar(Console.ReadLine());
+                        Console.Write(" ");
+                        op = Convert.ToString(Console.ReadLine());
 
-                        if (op == '+')
+                        if (op == "+")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado += num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == '-')
+                        if (op == "-")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado -= num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == '*')
+                        if (op == "*")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado *= num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == '/')
+                        if (op == "/")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado /= num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == 5)
+                        if (op == "esc")
                         {
                             continuar2 = false;
                             continuar1 = false;
@@ -203,53 +223,53 @@ namespace Ficha13
 
                 }
 
-                if (op == '/')
+                if (op == "/")
                 {
-                    Console.Write("");
+                    Console.Write(" ");
                     int num2 = Convert.ToInt32(Console.ReadLine());
                     double resultado = 0;
-                    resultado = num1 + num2;
+                    resultado = num1 / num2;
                     Console.WriteLine(" " + resultado);
 
                     do
                     {
 
-                        Console.Write("");
-                        op = Convert.ToChar(Console.ReadLine());
+                        Console.Write(" ");
+                        op = Convert.ToString(Console.ReadLine());
 
-                        if (op == '+')
+                        if (op == "+")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado += num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == '-')
+                        if (op == "-")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado -= num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == '*')
+                        if (op == "*")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado *= num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == '/')
+                        if (op == "/")
                         {
-                            Console.Write("");
+                            Console.Write(" ");
                             num2 = Convert.ToInt32(Console.ReadLine());
                             resultado /= num2;
                             Console.WriteLine(" " + resultado);
                         }
 
-                        if (op == 5)
+                        if (op == "esc")
                         {
                             continuar2 = false;
                             continuar1 = false;
@@ -262,10 +282,9 @@ namespace Ficha13
                 }
 
             }
-            while (continuar1 != false);
+            while (continuar1 && continuar2 != false);
 
-        }
-                           
+        }                      
 
         #endregion
 
