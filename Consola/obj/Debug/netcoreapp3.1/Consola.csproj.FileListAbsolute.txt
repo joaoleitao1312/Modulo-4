@@ -96,3 +96,9 @@ C:\Users\PC\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha14.dll
 C:\Users\PC\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha14.pdb
 C:\Users\PC\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha15.dll
 C:\Users\PC\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha15.pdb
+C:\Users\PC\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha16.dll
+C:\Users\PC\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha16.pdb
+C:\Users\PC\Source\Repos\Modulo-4\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\Modulo-4\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Users\PC\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha17.dll
+C:\Users\PC\Source\Repos\Modulo-4\Consola\bin\Debug\netcoreapp3.1\Ficha17.pdb

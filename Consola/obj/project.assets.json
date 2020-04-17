@@ -61,6 +61,26 @@
         "runtime": {
           "bin/placeholder/Ficha15.dll": {}
         }
+      },
+      "Ficha16/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Ficha16.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ficha16.dll": {}
+        }
+      },
+      "Ficha17/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Ficha17.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ficha17.dll": {}
+        }
       }
     }
   },
@@ -94,6 +114,16 @@
       "type": "project",
       "path": "../Ficha15/Ficha15.csproj",
       "msbuildProject": "../Ficha15/Ficha15.csproj"
+    },
+    "Ficha16/1.0.0": {
+      "type": "project",
+      "path": "../Ficha16/Ficha16.csproj",
+      "msbuildProject": "../Ficha16/Ficha16.csproj"
+    },
+    "Ficha17/1.0.0": {
+      "type": "project",
+      "path": "../Ficha17/Ficha17.csproj",
+      "msbuildProject": "../Ficha17/Ficha17.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -103,7 +133,9 @@
       "Ficha12 >= 1.0.0",
       "Ficha13 >= 1.0.0",
       "Ficha14 >= 1.0.0",
-      "Ficha15 >= 1.0.0"
+      "Ficha15 >= 1.0.0",
+      "Ficha16 >= 1.0.0",
+      "Ficha17 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -149,6 +181,12 @@
             "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha15\\Ficha15.csproj": {
               "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha15\\Ficha15.csproj"
             },
+            "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha16\\Ficha16.csproj": {
+              "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha16\\Ficha16.csproj"
+            },
+            "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha17\\Ficha17.csproj": {
+              "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha17\\Ficha17.csproj"
+            },
             "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj": {
               "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj"
             },
@@ -181,7 +219,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

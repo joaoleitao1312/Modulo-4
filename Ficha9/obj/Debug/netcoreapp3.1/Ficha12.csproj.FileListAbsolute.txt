@@ -30,3 +30,4 @@ C:\Users\PC\Source\Repos\Modulo-4\Ficha9\obj\Debug\netcoreapp3.1\Ficha12.Assembl
 C:\Users\PC\Source\Repos\Modulo-4\Ficha9\obj\Debug\netcoreapp3.1\Ficha12.AssemblyInfo.cs
 C:\Users\PC\Source\Repos\Modulo-4\Ficha9\obj\Debug\netcoreapp3.1\Ficha12.dll
 C:\Users\PC\Source\Repos\Modulo-4\Ficha9\obj\Debug\netcoreapp3.1\Ficha12.pdb
+C:\Users\PC\Source\Repos\Modulo-4\Ficha9\obj\Debug\netcoreapp3.1\Ficha12.csproj.CoreCompileInputs.cache
