@@ -15,8 +15,7 @@ namespace Ficha17
             Console.WriteLine("Introduza um índice");
             int i = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine($"O caracter na posição {i} é {frase[i]}");
-        
+            Console.WriteLine($"O caracter na posição {i} é {frase[i]}");        
         }
 
         #endregion
@@ -127,19 +126,79 @@ namespace Ficha17
             SolicitarString(ref frase);
 
             int tam = frase.Length;
-            int ultimosDez = tam - 11;
 
-            for (int i = tam - 1; i > ultimosDez; i--)
+            int ultDez = tam - 10;
+
+            for (int i = ultDez; i < tam; i++)
             {
-                string frase2 = frase[i].ToString();
-                for (int j = 0; j < 9; j++)
+                Console.Write(frase[i]);
+            }
+        }
+
+        #endregion
+
+        #region Exercicio6
+
+        public static void Exercicio6()
+        {
+            string frase = " ";
+
+            SolicitarString(ref frase);
+
+            int tam = frase.Length;
+
+            string alfabeto = "abcdefghijklmnopqrstuvwxyz";
+
+            int tam2 = alfabeto.Length;
+            int j = 0;
+
+            for (int i = 0; i < tam; i++)
+            {
+                for (j = 0; j < tam2; j++)
                 {
-                    Console.Write(frase2[j]);
+                    if (frase[i] == alfabeto[j])
+                    {
+                        Console.WriteLine($"O caracter {frase[i]} está na posição {j + 1} do alfabeto");
+                    }
+
                 }
             }
         }
 
         #endregion
+
+        #region Exercicio7
+
+        public static void Exercicio7()
+        {
+            string frase = " ";
+
+            SolicitarString(ref frase);
+
+            int tam = frase.Length;
+            
+
+            for (int i = tam - 1; i >= 0; i--)
+            {
+                Console.Write($"{frase[i]}");
+            }
+        }
+
+        #endregion
+
+        #region Exercicio8
+
+        public static void Exercicio8()
+        {
+            string frase = " ";
+
+            SolicitarString(ref frase);
+
+            int tam = frase.Length;
+        }
+
+        #endregion
+
 
     }
 }

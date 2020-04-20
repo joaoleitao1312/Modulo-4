@@ -81,6 +81,26 @@
         "runtime": {
           "bin/placeholder/Ficha17.dll": {}
         }
+      },
+      "Ficha24/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Ficha24.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ficha24.dll": {}
+        }
+      },
+      "Testes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Testes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Testes.dll": {}
+        }
       }
     }
   },
@@ -124,6 +144,16 @@
       "type": "project",
       "path": "../Ficha17/Ficha17.csproj",
       "msbuildProject": "../Ficha17/Ficha17.csproj"
+    },
+    "Ficha24/1.0.0": {
+      "type": "project",
+      "path": "../Ficha24/Ficha24.csproj",
+      "msbuildProject": "../Ficha24/Ficha24.csproj"
+    },
+    "Testes/1.0.0": {
+      "type": "project",
+      "path": "../Testes/Testes.csproj",
+      "msbuildProject": "../Testes/Testes.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -135,7 +165,9 @@
       "Ficha14 >= 1.0.0",
       "Ficha15 >= 1.0.0",
       "Ficha16 >= 1.0.0",
-      "Ficha17 >= 1.0.0"
+      "Ficha17 >= 1.0.0",
+      "Ficha24 >= 1.0.0",
+      "Testes >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -187,11 +219,17 @@
             "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha17\\Ficha17.csproj": {
               "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha17\\Ficha17.csproj"
             },
+            "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha24\\Ficha24.csproj": {
+              "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha24\\Ficha24.csproj"
+            },
             "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj": {
               "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha7\\Ficha11.csproj"
             },
             "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj": {
               "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Ficha9\\Ficha12.csproj"
+            },
+            "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Testes\\Testes.csproj": {
+              "projectPath": "C:\\Users\\PC\\Source\\Repos\\Modulo-4\\Testes\\Testes.csproj"
             }
           }
         }

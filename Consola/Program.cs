@@ -7,6 +7,8 @@ using Ficha15;
 using Ficha16;
 using Ficha17;
 using System;
+using Testes;
+using Ficha24;
 
 namespace Consola
 {
@@ -100,9 +102,33 @@ namespace Consola
             //Ficha17Solucao.Exercicio2();
             //Ficha17Solucao.Exercicio3();
             //Ficha17Solucao.Exercicio4();
-            Ficha17Solucao.Exercicio5();
+            //Ficha17Solucao.Exercicio5();
+            //Ficha17Solucao.Exercicio6();
+            //Ficha17Solucao.Exercicio7();
 
+            //Testes.Testes.Summarize();
 
+            Car p1 = new Car("Peugeut", "208", 2007);
+            Car p2 = new Car("Ferrari", "FXX", 2018);
+            Console.WriteLine($"{p1.GetBrand()}-{p1.GetYear()}-{p1.GetModel()}");
+            Console.WriteLine($"{p2.GetBrand()}-{p2.GetYear()}-{p2.GetModel()}");
+
+            Car1 p3 = new Car1("Peugeut", "208", 2007);
+            Car1 p4 = new Car1("Ferrari", "FXX", 2018);
+            Console.WriteLine($"{p3.brand} {p3.model} {p3.year}");
+            Console.WriteLine($"{p4.brand} {p4.model} {p4.year}");
+
+            Products p5 = new Products("Banana", 1.98, Types.Fruit);
+            Console.WriteLine($"{p5.GetName()} - {p5.GetPrice()} - {p5.GetType()}");
+
+            Products1 p6 = new Products1("Banana", 1.98, Types.Fruit);
+            Console.WriteLine($"{p6.name} - {p6.price} - {p6.type}");
+
+            Player1 player1 = new Player1("Renaldo", 42, 1.65f, 20, Sponsor.Nyka);
+            Console.WriteLine($"{player1.GetName()} - {player1.GetAge()} - {player1.GetHeight()} - {player1.GetWeight()} - {player1.GetSponsor()} - {player1.GetIMC()}");
+
+            Player2 player2 = new Player2("Messias", 39, 2.50f, 98, Sponsor.Acliclas);
+            Console.WriteLine($"{player2.name} - {player2.age} - {player2.height} - {player2.weight} - {player2.sponsor} - {player2.imc}");
         }
     }
 }

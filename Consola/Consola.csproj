@@ -12,8 +12,10 @@
     <ProjectReference Include="..\Ficha15\Ficha15.csproj" />
     <ProjectReference Include="..\Ficha16\Ficha16.csproj" />
     <ProjectReference Include="..\Ficha17\Ficha17.csproj" />
+    <ProjectReference Include="..\Ficha24\Ficha24.csproj" />
     <ProjectReference Include="..\Ficha7\Ficha11.csproj" />
     <ProjectReference Include="..\Ficha9\Ficha12.csproj" />
+    <ProjectReference Include="..\Testes\Testes.csproj" />
   </ItemGroup>
 
 </Project>

@@ -14,7 +14,9 @@
           "Ficha14": "1.0.0",
           "Ficha15": "1.0.0",
           "Ficha16": "1.0.0",
-          "Ficha17": "1.0.0"
+          "Ficha17": "1.0.0",
+          "Ficha24": "1.0.0",
+          "Testes": "1.0.0"
         },
         "runtime": {
           "Consola.dll": {}
@@ -58,6 +60,16 @@
       "Ficha17/1.0.0": {
         "runtime": {
           "Ficha17.dll": {}
+        }
+      },
+      "Ficha24/1.0.0": {
+        "runtime": {
+          "Ficha24.dll": {}
+        }
+      },
+      "Testes/1.0.0": {
+        "runtime": {
+          "Testes.dll": {}
         }
       }
     }
@@ -104,6 +116,16 @@
       "sha512": ""
     },
     "Ficha17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ficha24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Testes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
